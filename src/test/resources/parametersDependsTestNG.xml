@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="ParametersAndDependsOnMethodsTest.java">
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name="uname" value="rameshqaonline@gmail.com"></parameter>
+        <parameter name="pwd" value="Test@123"></parameter>
+        <classes>
+
+            <class name="testngprograms.ParametersAndDependsOnMethodsTest">
+
+            </class>
+
+        </classes>
+    </test>
+</suite>

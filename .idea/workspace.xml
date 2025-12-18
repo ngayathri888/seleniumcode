@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8523d82e-9b01-47d5-a3b3-9c17ce50b0f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2rNdh1PBBasGP4RGZ1Wt0FyOSek" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ActionMethodsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BrokenImagesTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BrokenLinksTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CookiesDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstSeleniumTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetElementMethodDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ImdbTop250LinksTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedInGeneralSectionTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocatorsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScrollAndTakesScreenshot.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HerokuAppFramesTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HerokuAppJSAlertsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HerokuAppLoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RediffInternalFrameTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.basicprograms in selenium092025.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.resources in selenium092025.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.testngprograms in selenium092025.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium092025 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.selenium092025 [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/eclipseworkspacedec-24/selenium092025/src/test/resources/actionsTestNG.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/eclipseworkspacedec-24/selenium092025/src/test/resources/parallelClassesTestNG.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/eclipseworkspacedec-24/selenium092025/src/test/resources/parallelTestsTestNG.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/eclipseworkspacedec-24/selenium092025/src/test/resources/parametersDependsTestNG.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/eclipseworkspacedec-24/selenium092025/src/test/resources/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/eclipseworkspacedec-24/selenium092025/src/test/resources/zkdemOTestNG.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/eclipseworkspacedec-24/selenium092025/target/test-classes/zkdemOTestNG.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DoubleClickTest.doubleClickTest.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.DoubleClickTest.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.DragAndDropByTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DragAndDropTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FileUploadUsingAutoit.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FileUploadUsingRobot.easyUploadTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GoogleSearchDataDrivenTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GoogleSugestionsTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HandleDatePicker.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HandleWebTables.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.HandleWebTables.handleWebTablesTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HandlingMenuTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ParametersAndDependsOnMethodsTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ShadowRootDemoTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SocialLinksMenuRightClickTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TwoPluginsTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ZkDemoTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ZkTestDemo.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/eclipseworkspacedec-24/selenium092025/src/test/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\eclipseworkspacedec-24\selenium092025\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testngprograms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/eclipseworkspacedec-24/selenium092025/target/test-classes/zkdemOTestNG.xml">
+    <configuration name="ImdbTop250LinksTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linksexamples.ImdbTop250LinksTest" />
+      <module name="selenium092025" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linksexamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testngprograms in selenium092025" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium092025" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/testngprograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/eclipseworkspacedec-24/selenium092025/src/test/resources/parametersDependsTestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium092025" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/parametersDependsTestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/eclipseworkspacedec-24/selenium092025/src/test/resources/zkdemOTestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium092025" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/zkdemOTestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/eclipseworkspacedec-24/selenium092025/target/test-classes/zkdemOTestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/target/test-classes/zkdemOTestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/eclipseworkspacedec-24/selenium092025/target/test-classes/zkdemOTestNG.xml" />
+        <item itemvalue="Application.ImdbTop250LinksTest" />
+        <item itemvalue="JUnit.testngprograms in selenium092025" />
+        <item itemvalue="TestNG.C:/eclipseworkspacedec-24/selenium092025/src/test/resources/zkdemOTestNG.xml" />
+        <item itemvalue="TestNG.C:/eclipseworkspacedec-24/selenium092025/src/test/resources/parametersDependsTestNG.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8523d82e-9b01-47d5-a3b3-9c17ce50b0f1" name="Changes" comment="" />
+      <created>1736403584254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736403584254</updated>
+    </task>
+    <servers />
+  </component>
+</project>
